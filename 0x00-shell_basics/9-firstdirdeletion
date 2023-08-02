@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r /ymp/my_first-direectory
+rm -r /tmp/my_first-direectory
